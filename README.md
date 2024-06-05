@@ -1,17 +1,4 @@
-# Gemini 2.0 Clone 🤖
-Gemini Clone is a project aimed at replicating the functionality of Gemini AI, powered by the Google Gemini API, using React JS + Vite JS and some CSS styling 🤖💻
-
-# [Live Demo](https://gemini-clone-shjz.netlify.app/)
-(Note: temporary hosting project on Netlify for almost 90 days after that it will be deactivated)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-  - [Core Features](#core-features)
-  - [Additional Features](#additional-features)
-  - [Potential Enhancements](#potential-enhancements)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
+# Google Gemini 2.0 Clone 🤖
 
 ## Introduction
 This project introduces a React-based web application that functions as a clone of the Google Gemini AI chatbot. It provides a user-friendly interface for interacting with the powerful Gemini model, allowing you to ask questions and receive informative responses in a conversational manner.
